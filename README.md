@@ -9,30 +9,27 @@ As a developer, I believe in the power of innovation, where challenges are oppor
 
 **Transforming code into creative solutions. Where challenges spark innovation and problem-solving is an art form.**
 
-### My Skills
-
 ### Programming Languages
-- ☕ Advanced Java
-- 💼 TypeScript
-- 🌐 JavaScript
-- 📄 HTML
-- 🎨 CSS
+- Advanced Java ☕
+- TypeScript 💼
+- JavaScript 🌐
+- HTML 📄
+- CSS 🎨
 
 ### Tools
-- **IDEs:** 🛠️ IntelliJ IDEA, Visual Studio Code
-- **Collaboration Platforms:** 🤝 Microsoft Teams
-- **Productivity Suites:** 📊 Google Workspace (G Suite)
-- **Design:** 🎨 Canva
+- **IDEs:** IntelliJ IDEA 🛠️, Visual Studio Code 📝
+- **Collaboration Platforms:** Microsoft Teams 🤝
+- **Productivity Suites:** Google Workspace (G Suite) 📊
+- **Design:** Canva 🎨
 
 ### Technologies
-- **Testing Frameworks:** 🧪 JUnit5, Mockito
-- **Web Framework:** 🅰️ Angular
-- **Web Development:** 🌐 Restful APIs, Spring Framework
-- **Desktop Application Development:** 💻 JavaFX
-- **Database:** 🗃️ MySQL
-- **Database Connectivity:** 🔄 JDBC, JPA, Hibernate
-- **Version Control:** 📂 Git
-
+- **Testing Frameworks:** JUnit5 🧪, Mockito 🕵️‍♂️
+- **Web Framework:** Angular 🅰️
+- **Web Development:** Restful APIs 🌐, Spring Framework 🍃
+- **Desktop Application Development:** JavaFX 💻
+- **Database:** MySQL 🗃️
+- **Database Connectivity:** JDBC 🔄, JPA 📦, Hibernate 🌱
+- **Version Control:** Git 📂
 
 ### Soft Skills
 
