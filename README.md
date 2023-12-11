@@ -7,7 +7,7 @@ Welcome to my code sanctuary, where I transform lines of code into creative solu
 I thrive in the world of Java and love crafting elegant solutions to complex problems. 
 As a developer, I believe in the power of innovation, where challenges are opportunities and problem-solving is an art form.
 
-⭐**Transforming code into creative solutions. Where challenges spark innovation and problem-solving is an art form.**⭐
+⭐ **Transforming code into creative solutions. Where challenges spark innovation and problem-solving is an art form.** ⭐
 
 ### Programming Languages
 - Advanced Java ☕
