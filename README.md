@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Zoë, a passionate Java Developer 🚀
+## Hi there! 👋 I'm Zoë, a Java Developer 🚀
 
 Welcome to my code sanctuary, where I transform lines of code into creative solutions! 🌟
 
