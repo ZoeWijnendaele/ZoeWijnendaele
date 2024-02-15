@@ -29,7 +29,7 @@ As a developer, I believe in the power of innovation, where challenges are oppor
 - **Desktop Application Development:** JavaFX 💻
 - **Database:** MySQL 🗃️
 - **Database Connectivity:** JDBC 🔄, JPA 📦, Hibernate 🌱
-- **Version Control:** Git 📂
+- **Version Control:** Git 📂, Github 🐱, GitKraken 🦑
 
 ### Soft Skills
 
