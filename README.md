@@ -52,4 +52,4 @@ Let's code something amazing together! 💻✨
 - 🔗 **LinkedIn:** [linkedin.com/in/zoewijnendaele](www.linkedin.com/in/zoëwijnendaele)
 - 🌐 **Portfolio:** coming soon ☕
 
-#### 🚀 Transforming Code. Inspiring Solutions. 🌟
+#### 🚀 Transforming Code in Inspiring Solutions. 🌟
